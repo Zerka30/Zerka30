@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Zerka30</h1>
 <h3>🎓 Apprentice Network Technician & Developer from France </h3>
 
-Someone wishing to evolve in cybersecurity, currently student in ! France, and here I publish some personal or school projects.
+My name is Raphaël, I'm 19 years old and I'm currently studying Networks! I would like to continue my studies in cybersecurity.
+
+My personal website: https://zerka.dev
 
 - 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
 
