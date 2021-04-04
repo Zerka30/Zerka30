@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Zerka30</h1>
-<h3>Apprentice Network Technician & Developer from France </h3>
+<h3>🎓Apprentice Network Technician & Developer from France </h3>
 
 - 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
 
-<h2>Skills</h2>
+<h2>🛠️ Skills</h2>
 
   <h3>⚖️ Main</h3>
   <p align="left">&nbsp;&nbsp;
