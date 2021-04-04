@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Zerka30</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Zerka30, Welcome on my github profil</h1>
+<h3Apprentice Network Technician & Developer from France 🇫🇷></h3>
 
 <p align="left"> <a href="https://twitter.com/zerka_dev" target="_blank"><img src="https://img.shields.io/twitter/follow/zerka_dev?logo=twitter&style=for-the-badge" alt="zerka_dev" /></a> </p>
 
