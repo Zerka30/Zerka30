@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Zerka30</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/zerka_dev" target="blank"><img src="https://img.shields.io/twitter/follow/zerka_dev?logo=twitter&style=for-the-badge" alt="zerka_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zerka_dev" target="_blank"><img src="https://img.shields.io/twitter/follow/zerka_dev?logo=twitter&style=for-the-badge" alt="zerka_dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
