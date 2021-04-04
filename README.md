@@ -14,10 +14,11 @@ My personal website: https://zerka.dev
     </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
   </p>
   
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 <h2>📊 Some Stats</h2>
 
