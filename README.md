@@ -13,7 +13,7 @@
     - CSS <br>
     - PHP <br>
     - MySQL & PostgreSQL <br>
-  <h3>>Want to learn more about it !</h3>
+  <h3>Want to learn more about it !</h3>
     - Docker <br>
 <h2>📊 Some Stats</h2>
 
