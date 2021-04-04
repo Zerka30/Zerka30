@@ -3,7 +3,7 @@
 
 - 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
 
-<h2>Language</h2>
+<h2>Skills</h2>
 
   <h3>Main</h3>
     - Java
