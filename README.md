@@ -7,12 +7,12 @@
 
   <h3>Main</h3>
     - Java <br>
-    - Python <br>
+    - Python
   <h3>Also used</h3>
-    - HTML
-    - CSS
-    - PHP
-    - MySQL & PostgreSQL
+    - HTML <br>
+    - CSS <br>
+    - PHP <br>
+    - MySQL & PostgreSQL <br>
 <h2>📊 Some Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerka30&show_icons=true&locale=en&theme=dark" alt="zerka30" /></p>
