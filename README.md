@@ -14,11 +14,11 @@ My personal website: https://zerka.dev
     </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
   </p>
   
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+- 🔭 I’m currently working on **wesh**
+
+- 👯 I’m looking to collaborate on **weshalors**
+
+- 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
 
 <h2>📊 Some Stats</h2>
 
