@@ -6,13 +6,15 @@
 <h2>Language</h2>
 
   <h3>Main</h3>
-    - 🤝 I’m currently working on [Java](https://github.com/Cleymax/BookmarksBox)
+    - Java
     - Python
   <h3>Also used</h3>
     - HTML <br>
     - CSS <br>
     - PHP <br>
     - MySQL & PostgreSQL <br>
+  <h3>>Want to learn more about it !</h3>
+    - Docker <br>
 <h2>📊 Some Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerka30&show_icons=true&locale=en&theme=dark" alt="zerka30" /></p>
