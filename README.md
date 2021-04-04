@@ -6,8 +6,8 @@
 <h2>Language</h2>
 
   <h3>Main</h3>
-    - [Java]
-    - [Python]
+    - Java <br>
+    - Python <br>
   <h3>Also used</h3>
     - HTML
     - CSS
