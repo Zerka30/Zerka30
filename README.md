@@ -4,7 +4,7 @@
 - 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
 
 
-<h2>Some Stats</h2>
+<h2>📊 Some Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerka30&show_icons=true&locale=en&theme=dark" alt="zerka30" /></p>
 
