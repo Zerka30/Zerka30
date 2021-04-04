@@ -2,13 +2,12 @@
 <h3>Apprentice Network Technician & Developer from France </h3>
 
 - 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
-- 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
 
 <h2>Language</h2>
 
   <h3>Main</h3>
-    - Java
-    - Python
+    - [Java]
+    - [Python]
   <h3>Also used</h3>
     - HTML
     - CSS
