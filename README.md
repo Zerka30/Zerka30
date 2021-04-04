@@ -36,4 +36,4 @@ My personal website: https://zerka.dev
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerka30&show_icons=true&locale=en&theme=dark" alt="zerka30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerka30&show_icons=true&locale=en&theme=dark" alt="zerka30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerka30&show_icons=true&locale=en&theme=dark&line_height=40" alt="zerka30" /></p>
