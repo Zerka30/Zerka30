@@ -7,6 +7,17 @@ My personal website: https://zerka.dev
 
 - 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
 
+<h2>🛠️ Skills</h2>
+
+  <p align="left">&nbsp;&nbsp;
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40"/>
+    </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
+  </p>
+  
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 <h2>📊 Some Stats</h2>
 
