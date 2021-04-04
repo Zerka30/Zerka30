@@ -14,12 +14,21 @@ My personal website: https://zerka.dev
     </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a>
   </p>
   
-- 🔭 I’m currently working on **wesh**
-
-- 👯 I’m looking to collaborate on **weshalors**
-
-- 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
-
+* Application
+  * Java
+  * Python
+* Web
+  * HTML
+  * CSS
+  * PHP
+  * SASS
+* Database
+  * PostgreSQL
+  * MySQL
+* DevOps
+  * Docker
+  * Git
+  * Linux
 <h2>📊 Some Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerka30&show_icons=true&locale=en&theme=dark" alt="zerka30" /></p>
