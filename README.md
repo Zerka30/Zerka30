@@ -1,38 +1,85 @@
-<h1>Hi 👋, I'm Zerka30</h1>
-<h3>🎓 Apprentice Network Technician & Developer from France </h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px"/>
+  <h1>Raphaël "Zerka" H.</h1>
+</div>
 
-My name is Raphaël, I'm 19 years old and I'm currently studying Networks! I would like to continue my studies in cybersecurity.
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+  <img src="https://img.shields.io/badge/Gitlab-330F63?logo=Gitlab&logoColor=white&style=for-the-badge" alt="Gitlab"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/website-pink?style=for-the-badge&logo=About.me&logoColor=black" alt="Website"/>
+</div>
 
-My personal website: https://zerka.dev
 
-- 🤝 I’m currently working on [BookmarksBox](https://github.com/Cleymax/BookmarksBox)
+---
 
-<h2>🛠️ Skills</h2>
+### :man_technologist: About Me :
 
-  <h3>⚖️ Main</h3>
-  <p align="left">&nbsp;&nbsp;
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40"/>
-    </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
-  </p>
-  <h3>⚙️ Also used</h3>
-    <p align="left">&nbsp;&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-    </p>
- <h3>📖 Want to learn more about it !</h3>
- <p align="left">&nbsp;&nbsp;
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a>
-   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
- </p>
-  
-<h2>📊 Some Stats</h2>
+
+I am a 20 years old french :fr: student in IT.  
+I want to become a devops/cloud expert
+
+- :student: Student at the "Université de Québec en Outaouais :canada:
+
+- :earth_africa: World Traveler (:fr: :belgium: :it: :switzerland: :portugal: :greece: :canada:)
+
+
+### :hammer_and_wrench: Languages and Tools :
+
+#### ⚖️ Main
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+#### 📖 Learning ...
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"  title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>
+</div>
+
+### Some project :
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Cleymax/BookmarksBox"><b>BookmarksBox</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cleymax/BookmarksBox?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cleymax/BookmarksBox?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cleymax/BookmarksBox?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cleymax/BookmarksBox?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Zerka30/CowcardsAPP"><b>Cowcards APP</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Zerka30/CowcardsAPP?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Zerka30/CowcardsAPP?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Zerka30/CowcardsAPP?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Zerka30/CowcardsAPP?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Zerka30/GameServersImage"><b>GameServersImages</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Zerka30/GameServersImage?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Zerka30/GameServersImage?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Zerka30/GameServersImage?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Zerka30/GameServersImage?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+### 📊 Some Stats :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerka30&show_icons=true&locale=en&theme=dark" alt="zerka30" style="max-width:100%;"/></p>
 
