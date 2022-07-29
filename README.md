@@ -21,7 +21,7 @@ I want to become a devops/cloud expert
 
 - :student: Student at the "Université de Québec en Outaouais :canada:
 
-- :earth_africa: World Traveler (:fr: :belgium: :it: :switzerland: :portugal: :greece: :canada:)
+- :earth_africa: World Traveler (:fr: :belgium: :it: :switzerland: :portugal: :canada:)
 
 
 ### :hammer_and_wrench: Languages and Tools :
