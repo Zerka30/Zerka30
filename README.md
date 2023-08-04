@@ -16,10 +16,10 @@
 ### :man_technologist: About Me :
 
 
-I am a 20 years old french :fr: student in IT.  
+I am a 21 years old french :fr: student in IT.  
 I want to become a devops/cloud expert
 
-- :student: Student at the "Université de Québec en Outaouais :canada:
+- :student: Student at the "Université Savoie Mont Blanc" :france:
 
 - :earth_africa: World Traveler (:fr: :belgium: :it: :switzerland: :portugal: :canada:)
 
