@@ -19,7 +19,7 @@
 I am a 21 years old french :fr: student in IT.  
 I want to become a devops/cloud expert
 
-- :student: Student at the "Université Savoie Mont Blanc" :france:
+- :student: Student at the "Université Savoie Mont Blanc" :fr:
 
 - :earth_africa: World Traveler (:fr: :belgium: :it: :switzerland: :portugal: :canada:)
 
@@ -56,18 +56,11 @@ I want to become a devops/cloud expert
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Cleymax/BookmarksBox"><b>BookmarksBox</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/cleymax/BookmarksBox?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/cleymax/BookmarksBox?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/cleymax/BookmarksBox?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cleymax/BookmarksBox?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/Zerka30/CowcardsAPP"><b>Cowcards APP</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Zerka30/CowcardsAPP?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Zerka30/CowcardsAPP?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Zerka30/CowcardsAPP?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Zerka30/CowcardsAPP?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Zerka30/KumaCompanion"><b>KumaCompanion</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Zerka30/KumaCompanion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Zerka30/KumaCompanion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Zerka30/KumaCompanion?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Zerka30/GameServersImage"><b>GameServersImages</b></a></td>
