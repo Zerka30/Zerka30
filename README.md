@@ -4,10 +4,16 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-  <img src="https://img.shields.io/badge/Gitlab-330F63?logo=Gitlab&logoColor=white&style=for-the-badge" alt="Gitlab"/>
+  <a href="https://github.com/Zerka30" target="_Blank">
+    <img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+  </a>
+  <a href="https://gitlab.com/Zerka30" target="_Blank">
+    <img src="https://img.shields.io/badge/Gitlab-330F63?logo=Gitlab&logoColor=white&style=for-the-badge" alt="Gitlab"/>
+  </a>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/website-pink?style=for-the-badge&logo=About.me&logoColor=black" alt="Website"/>
+  <a href="https://zerka.dev" target="_Blank">
+    <img src="https://img.shields.io/badge/website-pink?style=for-the-badge&logo=About.me&logoColor=black" alt="Website"/>
+  </a>
 </div>
 
 
