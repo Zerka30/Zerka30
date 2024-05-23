@@ -10,7 +10,6 @@
   <a href="https://gitlab.com/Zerka30" target="_Blank">
     <img src="https://img.shields.io/badge/Gitlab-330F63?logo=Gitlab&logoColor=white&style=for-the-badge" alt="Gitlab"/>
   </a>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://zerka.dev" target="_Blank">
     <img src="https://img.shields.io/badge/website-pink?style=for-the-badge&logo=About.me&logoColor=black" alt="Website"/>
   </a>
@@ -22,10 +21,12 @@
 ### :man_technologist: About Me :
 
 
-I am a 21 years old french :fr: student in IT.  
+I am a 22 years old french :fr: student in IT.  
 I want to become a devops/cloud expert
 
 - :student: Student at the "Université Savoie Mont Blanc" :fr:
+  
+- 👨‍💼 Working at [Infomaniak](https://infomaniak.com)
 
 - :earth_africa: World Traveler (:fr: :belgium: :it: :switzerland: :portugal: :canada:)
 
