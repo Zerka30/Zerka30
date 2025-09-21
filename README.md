@@ -18,7 +18,8 @@
   <i>Automation, GitOps & Kubernetes at scale.</i>
 </p>
 
-## 🛠 Skills
+<!-- ## 🛠 Skills
+-->
 
 <!-- 
 ## 🎓 Certifications
