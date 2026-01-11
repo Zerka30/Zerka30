@@ -29,10 +29,3 @@
 </p>
 -->
 
-## 📊 Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerka30&show_icons=true&locale=en&theme=dark" alt="Top Langs" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zerka30&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-
