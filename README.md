@@ -22,6 +22,7 @@
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1339](https://github.com/clastix/kamaji/pull/1339) in [clastix/kamaji](https://github.com/clastix/kamaji)
+1. 💪 Opened PR [#1452](https://github.com/gardener/etcd-druid/pull/1452) in [gardener/etcd-druid](https://github.com/gardener/etcd-druid)
 <!--END_SECTION:activity-->
 
 
