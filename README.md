@@ -18,6 +18,13 @@
   <i>Automation, GitOps & Kubernetes at scale.</i>
 </p>
 
+## :zap: My Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1339](https://github.com/clastix/kamaji/pull/1339) in [clastix/kamaji](https://github.com/clastix/kamaji)
+<!--END_SECTION:activity-->
+
+
 <!-- ## 🛠 Skills
 -->
 
